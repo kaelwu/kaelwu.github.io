@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: http://kaelwu.github.io
 url: http://kaelwu.github.io
 date_format: "ordinal"
 title: Blog
