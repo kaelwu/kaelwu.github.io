@@ -6,12 +6,13 @@ description: docker mac beta
 keywords: mac, docker
 ---
 
-# docker for mac beta
+### docker for mac beta
 
-##  How to run a insecure-registry
+#How to run a insecure-registry
 
-### pinata get daemon > myconfig.json
+1.pinata get daemon > myconfig.json
 
-### {"storage-driver":"aufs","debug":true,"insecure-registries":["your.insecure.registry"]}
+2.{"storage-driver":"aufs","debug":true,"insecure-registries":["your.insecure.registry"]}
 
-### pinata set daemon @myconfig.json
+3.pinata set daemon @myconfig.json
+
