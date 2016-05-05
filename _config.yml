@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://kaelwu.github.io
 date_format: "ordinal"
 title: Blog
 subtitle: "打码改变人生"
 description: "Kael Wu Blog"
-keywords: Kael Wu
+keywords: Kael
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
