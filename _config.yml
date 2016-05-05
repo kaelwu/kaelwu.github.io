@@ -1,26 +1,42 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @kaelwu
+ Watch 1
+  Star 12
+ Fork 18 mzlogin/mzlogin.github.io
+ Code  Issues 1  Pull requests 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathmzlogin.github.io/_config.yml
+03e32f1  26 days ago
+@mzlogin mzlogin Add Disqus protection, see #2
+1 contributor
+RawBlameHistory     107 lines (95 sloc)  2.42 KB
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: http://kaelwu.github.io
-url: http://kaelwu.github.io
+baseurl:
+url: http://mazhuang.org
 date_format: "ordinal"
-title: Blog
+title: 码志
 subtitle: "打码改变人生"
-description: "Kael Wu Blog"
-keywords: Kael
+description: "马壮的个人博客"
+keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/kael/kaelwu.github.io
+source_code: https://github.com/mzlogin/mzlogin.github.io
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Kael Wu
-organization:  Inc.
-organization_url: xxx 
-location: Chengdu, China
-email: wuqihan25@gmail.com
+author: Zhuang Ma
+organization: Sogou, Inc.
+organization_url: https://www.sogou.com
+location: Beijing, China
+email: chumpma@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -79,12 +95,12 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-#github_username: mzlogin
-#douban_username: freedim
-#facebook_username: mzlogin
-#weibo_username: mzlogin
-#zhihu_username: mzlogin
-#twitter_username: mzlogin
+github_username: mzlogin
+douban_username: freedim
+facebook_username: mzlogin
+weibo_username: mzlogin
+zhihu_username: mzlogin
+twitter_username: mzlogin
 
 # ---------------- #
 #      Comments    #
@@ -93,9 +109,16 @@ collections:
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: kaelwu 
-disqus_username: kaelwu
+duoshuo_username: mazhuang
+disqus_username: mzlogin
 
 # ---------------- #
 #      Datas       #
 # ---------------- #
+skill_software_keywords: [Java, C++, Python, Design Patterns]
+skill_mobile_app_keywords: [Android, Reverse Engineering]
+skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+popular_repos: ['chinese-copywriting-guidelines','android-reverse-engineering', 'csdncommenter', 'mzlogin.github.io', 'vim-markdown-toc']
+contribute_repos: ['sparanoid/chinese-copywriting-guidelines', 'waylife/RentCrawer']
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
