@@ -2,25 +2,25 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+    url: http://kaelwu.github.io
 date_format: "ordinal"
-title: 码志
+title: Blog 
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "Kael WU的个人博客"
+keywords: Kael Wu
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/mzlogin/mzlogin.github.io
+source_code: https://github.com/kaelwu/kaelwu.github.io
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-location: Beijing, China
-email: chumpma@gmail.com
+author: Kael Wu
+organization:  Inc.
+organization_url: xxx
+location: Chengdu, China
+email: wuqihan25@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -79,12 +79,12 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+#github_username: mzlogin
+#douban_username: freedim
+#facebook_username: mzlogin
+#weibo_username: mzlogin
+#zhihu_username: mzlogin
+#twitter_username: mzlogin
 
 # ---------------- #
 #      Comments    #
@@ -99,8 +99,3 @@ disqus_username: mzlogin
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
-popular_repos: ['chinese-copywriting-guidelines','android-reverse-engineering', 'csdncommenter', 'mzlogin.github.io', 'vim-markdown-toc']
-contribute_repos: ['sparanoid/chinese-copywriting-guidelines', 'waylife/RentCrawer']
