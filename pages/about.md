@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 我们曾在黑夜中起舞
+keywords: Kael Wu
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
 
 ## 坚信
 
@@ -19,12 +16,9 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
+* GitHub：[@kaelwu](https://github.com/kaelwu)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+* 微博: [@W_Q_H](http://weibo.com/1797126244/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
 ## Skill Keywords
 
