@@ -1,8 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-    url: http://kaelwu.github.io
+url: http://kaelwu.github.io
 date_format: "ordinal"
 title: Blog 
 subtitle: "打码改变人生"
@@ -63,18 +62,10 @@ lsi: false
 quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
-gems:
-#     - jekyll-html-pipeline
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
-#     - jekyll-mentions
 collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
-
+  projects:
+    output: true
+    permalink: /projects/:path/
 # ---------------- #
 #      Socials     #
 # ---------------- #

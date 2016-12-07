@@ -17,7 +17,7 @@ permalink: /about/
 ## 联系
 
 * GitHub：[@kaelwu](https://github.com/kaelwu)
-* 博客：[{{ site.title }}]({{ site.url }})
+* 博客：[@kaelwu](http://kaelwu.github.io/)
 * 微博: [@W_Q_H](http://weibo.com/1797126244/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
 ## Skill Keywords
